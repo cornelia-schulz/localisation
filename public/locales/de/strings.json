@@ -1,0 +1,11 @@
+{
+    "title": "Willkommen bei React mit React-i18next",
+    "languages": {
+      "en": "Englisch",
+      "de": "Deutsch"
+    },
+    "description": {
+      "part1": "Um loszulegen, ändere <1>src/App.js</1> und speichere, um die App neu zu laden.",
+      "part2": "Die Sprachen könne mit Hilfe der zwei Schaltflächen von englisch auf deutsch umgestellt werden."
+    }
+  }
